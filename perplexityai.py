@@ -78,12 +78,3 @@ class Perplexity:
 
         return text
         
-
-
-    
-
-##api = Perplexity()
-##api.start()
-##
-##
-##api.stop()
